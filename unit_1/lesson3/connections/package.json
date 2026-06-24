@@ -1,14 +1,14 @@
 {
-  "name": "recipe_connection",
+  "name": "connections",
   "version": "1.0.0",
-  "description": "An app for recipe sharing",
+  "description": "An app to share cooking recipes with friends and family.",
+  "license": "ISC",
+  "author": "Eugene Mark",
+  "type": "commonjs",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "Eugene",
-  "license": "ISC",
   "dependencies": {
     "cities": "^2.0.0"
   }
