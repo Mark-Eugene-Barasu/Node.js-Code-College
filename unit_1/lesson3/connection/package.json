@@ -1,0 +1,23 @@
+{
+  "name": "connection",
+  "version": "1.0.0",
+  "description": "An application to share best food recipes to try out",
+  "homepage": "https://github.com/Mark-Eugene-Barasu/Node.js-Code-College#readme",
+  "bugs": {
+    "url": "https://github.com/Mark-Eugene-Barasu/Node.js-Code-College/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mark-Eugene-Barasu/Node.js-Code-College.git"
+  },
+  "license": "ISC",
+  "author": "Eugene Mark Korku Barasu",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "dependencies": {
+    "cities": "^2.0.0"
+  }
+}
